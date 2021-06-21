@@ -44,7 +44,7 @@ Message to : test2@gmail.com
 [+] All emails have been sent to test2@gmail.com 
 ----------------------------
 
-[+] All emails have been sent to all mail address```
+[+] All emails have been sent to all mail address
 ```
 
 ## Contributing
