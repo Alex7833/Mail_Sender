@@ -1,4 +1,4 @@
-# Mail Send in python3
+# Mail Sender in python3
 
 ## Installation
 
