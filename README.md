@@ -1,4 +1,4 @@
-# Simple Password Generator in python3
+# Mail Send in python3
 
 ## Installation
 
