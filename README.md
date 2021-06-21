@@ -8,6 +8,15 @@ cd Mail_Sender
 pip3 install -r requirements.txt
 ```
 
+## Configuration
+
+``
+If you have a gmail account:
+``
+1. Go to <https://myaccount.google.com/lesssecureapps>
+2. Allow your account to access less secure applications
+
+
 ## Usage
 
 ```sh
